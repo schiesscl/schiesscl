@@ -6,7 +6,7 @@
 ### About Me:
 
 - ⌨️ Full Stack Developer
-- 📏📐 Survey technician student
+- 📏📐 Survey Technician
 - 💻 Technology
 - 😄 Pronouns:He/him
 
