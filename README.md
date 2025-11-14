@@ -7,7 +7,7 @@
 - ⌨️ Full Stack Developer
 - 📏📐 Survey Technician
 - 💻 Technology
-- 😄 Pronouns:He/him
+- 🌱 I’m currently learning: Full Stack Python Development
 
 - :speech_balloon: How to reach me **hansschiess@gmail.com**
 - :link: Connect with me: <a href="https://linkedin.com/in/hans-schiess" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Linkedin Hans Schiess" height="30" width="25"/></a>
@@ -34,7 +34,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
