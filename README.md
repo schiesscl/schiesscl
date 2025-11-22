@@ -9,7 +9,6 @@
 - 💻 Technology
 - 🌱 I’m currently learning: Full Stack Python Development
 
-- :speech_balloon: How to reach me **hansschiess@gmail.com**
 - :link: Connect with me: <a href="https://linkedin.com/in/hans-schiess" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Linkedin Hans Schiess" height="30" width="25"/></a>
 - 💼 My portfolio: <a href="https://schiesscl.github.io/portfolio/index.html" target="_blank"><img align="center" src="https://schiesscl.github.io/portfolio/assets/img/github.webp" alt="Portfolio Hans Schiess" height="30" width="25"/></a>
 
