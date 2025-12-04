@@ -29,10 +29,10 @@
     <a href="https://expressjs.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
     </a>
-    <a href="https://www.w3.org/html/" target="_blank">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
     </a>
-    <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank">
